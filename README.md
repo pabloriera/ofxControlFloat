@@ -1,8 +1,8 @@
-===ofxControlFloat===
+***ofxControlFloat***
 
 Addon for a float class with simple exponential easy in/out.
 
-==Way of use==
+***Way of use***
 
 ofxControlFloat f;
 
