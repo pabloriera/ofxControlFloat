@@ -8,6 +8,6 @@ ofxControlFloat f;
 
 f = 10;
 
-and f tend to 10 with each app update
+and f will tend to 10 with each app update.
 
 
